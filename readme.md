@@ -11,4 +11,4 @@
 
 ## JavaScript ##
 1. Récupérer les fichiers JS du templates et les copier/coller dans app/assets/javascript !!Faire attention à l'ordonnancement dans application.js (//= require jquer...)
-2.et rebelote
+2. et rebelote comme pour CSS
