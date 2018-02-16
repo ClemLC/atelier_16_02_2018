@@ -13,9 +13,8 @@
 1. Récupérer les fichiers JS du templates et les copier/coller dans app/assets/javascript !!Faire attention à l'ordonnancement dans application.js (//= require jquer...)
 2. et rebelote comme pour CSS
 
-## Atelier Git##
+## Atelier Git ##
 
 https://slides.com/durev/workshop-git
 
 https://ndpsoftware.com/git-cheatsheet.html#loc=index;
-
